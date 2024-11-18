@@ -1,2 +1,2 @@
 # Hate_Speech_Bengali_Texts
-Binary Classification of Bengali hate speech in online using deep learning model
+Binary Classification of Bengali hate speech in online using deep learning model. The detection of hate speech (HS) in online platforms has become extremely important for maintaining a safe and inclusive environment. The key challenges specific to HS detection in Bengali, including the scarcity of labeled datasets, linguistic nuances, and contextual variations are outlined in this model. 
